@@ -1,0 +1,22 @@
+<resources>
+    <string name="button_text">Result</string>
+    <string name="app_name">Quiz App</string>
+    <string name="your_name">Your Name</string>
+    <string name="quiz_one">1. Which company developed Android?</string>
+    <string name="apple">A. Apple</string>
+    <string name="google">B. Google</string>
+    <string name="android_inc"> C. Android Inc.</string>
+    <string name="nokia">D. Nokia</string>
+    <string name="quiz_two">2. Developed Countries are:</string>
+    <string name="country_one">A. India</string>
+    <string name="country_two">B. Algeria</string>
+    <string name="country_three">C. USA</string>
+    <string name="country_four">D. Australia</string>
+    <string name="quiz_four">4. Life Span of Mice is ________</string>
+    <string name="option_one" >A. 1-3 years</string>
+    <string name="option_two">B. 3-8 years</string>
+    <string name="option_three">C. 10- 13 years</string>
+    <string name="option_four">D. 15-18 years</string>
+    <string name="quiz_three">3. Name the founder of Google?</string>
+    <string name="quiz_five">5. If you want to increase the whitespace between widgets, you will need to use the ____________ property</string>
+</resources>
